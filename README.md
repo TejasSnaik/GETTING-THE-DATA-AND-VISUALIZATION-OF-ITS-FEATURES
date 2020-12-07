@@ -1,0 +1,2 @@
+# GETTING-THE-DATA-AND-VISUALIZATION-OF-ITS-FEATURES
+URL:https://www.top500.org/ Crawling the data for an earlier year, say 2010 and latest year 2020. Data for number of supercomputers in each country and data about GDP per capita growth for countries between 2010 and 2020. Filtering the Data and dropping the unnecessary features. Final output: simple regression scatter plot. X axis is growth in the number of supercomputers and Y axis is GDP per capita growth. Each point is a country.
